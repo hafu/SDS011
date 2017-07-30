@@ -1,0 +1,25 @@
+{
+    "name": "SDS011 dust sensor library",
+    "keywords": "sensor, dust, sds011, nova",
+    "description": "Arduino library for SDS011 dust sensor",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/hafu/SDS011.git"
+    },
+    "authors":
+    [
+        {
+            "name": "Hannes Fuchs",
+            "maintainer": true
+        }
+    ],
+    "examples":
+    [
+        "examples/*/*.ino"
+    ],
+    "version": "1.0.0",
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
